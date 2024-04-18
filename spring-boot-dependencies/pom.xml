@@ -46,7 +46,7 @@
 		<!-- Spring Boot -->
 		<spring-boot.version>1.3.0.BUILD-SNAPSHOT</spring-boot.version>
 		<!-- Third Party -->
-		<activemq.version>5.12.1</activemq.version>
+		<activemq.version>5.15.16</activemq.version>
 		<antlr2.version>2.7.7</antlr2.version>
 		<artemis.version>1.1.0</artemis.version>
 		<aspectj.version>1.8.7</aspectj.version>
@@ -61,21 +61,21 @@
 		<commons-pool.version>1.6</commons-pool.version>
 		<commons-pool2.version>2.4.2</commons-pool2.version>
 		<crashub.version>1.3.2</crashub.version>
-		<derby.version>10.12.1.1</derby.version>
+		<derby.version>10.17.1.0</derby.version>
 		<dropwizard-metrics.version>3.1.2</dropwizard-metrics.version>
 		<ehcache.version>2.10.1</ehcache.version>
 		<embedded-mongo.version>1.50.0</embedded-mongo.version>
 		<flyway.version>3.2.1</flyway.version>
 		<freemarker.version>2.3.23</freemarker.version>
-		<elasticsearch.version>1.5.2</elasticsearch.version>
+		<elasticsearch.version>7.17.19</elasticsearch.version>
 		<gemfire.version>8.1.0</gemfire.version>
 		<glassfish-el.version>3.0.0</glassfish-el.version>
 		<gradle.version>1.12</gradle.version>
 		<groovy.version>2.4.4</groovy.version>
 		<gson.version>2.3.1</gson.version>
-		<h2.version>1.4.190</h2.version>
+		<h2.version>2.2.220</h2.version>
 		<hamcrest.version>1.3</hamcrest.version>
-		<hazelcast.version>3.5.3</hazelcast.version>
+		<hazelcast.version>5.3.5</hazelcast.version>
 		<hibernate.version>4.3.11.Final</hibernate.version>
 		<hibernate-validator.version>5.2.2.Final</hibernate-validator.version>
 		<hikaricp.version>2.4.1</hikaricp.version>
@@ -86,7 +86,7 @@
 		<httpclient.version>4.5.1</httpclient.version>
 		<httpcore.version>4.4.4</httpcore.version>
 		<infinispan.version>8.0.1.Final</infinispan.version>
-		<jackson.version>2.6.1</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<janino.version>2.7.8</janino.version>
 		<javassist.version>3.18.1-GA</javassist.version> <!-- Same as Hibernate -->
 		<javax-cache.version>1.0.0</javax-cache.version>
@@ -98,27 +98,27 @@
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.7.3</jedis.version>
 		<jersey.version>2.22.1</jersey.version>
-		<jetty.version>9.2.13.v20150730</jetty.version>
+		<jetty.version>9.4.53.v20231009</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jmustache.version>1.11</jmustache.version>
 		<joda-time.version>2.8.2</joda-time.version>
 		<jolokia.version>1.3.2</jolokia.version>
 		<jooq.version>3.7.0</jooq.version>
-		<json.version>20140107</json.version>
+		<json.version>20231013</json.version>
 		<jsonassert.version>1.2.3</jsonassert.version>
-		<json-path.version>2.0.0</json-path.version>
+		<json-path.version>2.9.0</json-path.version>
 		<jstl.version>1.2</jstl.version>
 		<junit.version>4.12</junit.version>
 		<liquibase.version>3.4.1</liquibase.version>
 		<log4j.version>1.2.17</log4j.version>
-		<log4j2.version>2.4.1</log4j2.version>
-		<logback.version>1.1.3</logback.version>
+		<log4j2.version>2.12.4</log4j2.version>
+		<logback.version>1.2.13</logback.version>
 		<mariadb.version>1.2.3</mariadb.version>
 		<mockito.version>1.10.19</mockito.version>
 		<mongodb.version>2.13.2</mongodb.version>
 		<mysql.version>5.1.37</mysql.version>
 		<nekohtml.version>1.9.22</nekohtml.version>
-		<postgresql.version>9.4-1204-jdbc41</postgresql.version>
+		<postgresql.version>42.3.9</postgresql.version>
 		<reactor.version>2.0.6.RELEASE</reactor.version>
 		<reactor-spring.version>2.0.6.RELEASE</reactor-spring.version>
 		<sendgrid.version>2.2.2</sendgrid.version>
@@ -128,12 +128,12 @@
 		<snakeyaml.version>1.16</snakeyaml.version>
 		<solr.version>4.10.4</solr.version>
 		<spock.version>1.0-groovy-2.4</spock.version>
-		<spring.version>4.2.3.BUILD-SNAPSHOT</spring.version>
+		<spring.version>4.3.30.RELEASE</spring.version>
 		<spring-amqp.version>1.5.1.RELEASE</spring-amqp.version>
 		<spring-cloud-connectors.version>1.2.0.RELEASE</spring-cloud-connectors.version>
 		<spring-batch.version>3.0.5.RELEASE</spring-batch.version>
 		<spring-data-releasetrain.version>Gosling-RELEASE</spring-data-releasetrain.version>
-		<spring-hateoas.version>0.19.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>1.5.5</spring-hateoas.version>
 		<spring-integration.version>4.2.1.RELEASE</spring-integration.version>
 		<spring-loaded.version>1.2.4.RELEASE</spring-loaded.version>
 		<spring-mobile.version>1.1.5.RELEASE</spring-mobile.version>
@@ -142,7 +142,7 @@
 		<spring-retry.version>1.1.2.RELEASE</spring-retry.version>
 		<spring-security.version>4.0.3.RELEASE</spring-security.version>
 		<spring-security-jwt.version>1.0.3.RELEASE</spring-security-jwt.version>
-		<spring-security-oauth.version>2.0.8.RELEASE</spring-security-oauth.version>
+		<spring-security-oauth.version>2.0.19.RELEASE</spring-security-oauth.version>
 		<spring-session.version>1.0.2.RELEASE</spring-session.version>
 		<spring-social.version>1.1.2.RELEASE</spring-social.version>
 		<spring-social-facebook.version>2.0.2.RELEASE</spring-social-facebook.version>
@@ -156,8 +156,8 @@
 		<thymeleaf-extras-conditionalcomments.version>2.1.1.RELEASE</thymeleaf-extras-conditionalcomments.version>
 		<thymeleaf-layout-dialect.version>1.3.1</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>1.3</thymeleaf-extras-data-attribute.version>
-		<tomcat.version>8.0.28</tomcat.version>
-		<undertow.version>1.3.4.Final</undertow.version>
+		<tomcat.version>8.5.99</tomcat.version>
+		<undertow.version>2.2.31.Final</undertow.version>
 		<velocity.version>1.7</velocity.version>
 		<velocity-tools.version>2.0</velocity-tools.version>
 		<webjars-hal-browser.version>9f96c74</webjars-hal-browser.version>
@@ -173,13 +173,13 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
-				<version>1.3.0.BUILD-SNAPSHOT</version>
+				<version>2.7.18</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot</artifactId>
 				<type>test-jar</type>
-				<version>1.3.0.BUILD-SNAPSHOT</version>
+				<version>2.7.18</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -194,7 +194,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-autoconfigure</artifactId>
-				<version>1.3.0.BUILD-SNAPSHOT</version>
+				<version>2.5.15</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
